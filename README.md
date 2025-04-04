@@ -1,4 +1,5 @@
 Demo of the designed app:
 
-https://github.com/user-attachments/assets/40a4e035-dae3-4bc1-a001-afc0f3fd5153
+
+https://github.com/user-attachments/assets/75ff439a-81dc-44b4-966b-86413ab2e8b6
 
